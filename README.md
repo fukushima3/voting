@@ -1,0 +1,4 @@
+voting
+======
+
+Redmine Voting Plugin
